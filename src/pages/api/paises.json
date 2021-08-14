@@ -1,0 +1,106 @@
+[
+  {
+    "continente": "Ásia",
+    "banner": "https://images.unsplash.com/photo-1583405584623-58f4b7d1380f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80",
+    "paises": [
+      {
+        "pais": "India",
+        "banner": "https://images.unsplash.com/photo-1548013146-72479768bada?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1355&q=80",
+        "cidades": [
+          {
+            "nome": "Japur",
+            "banner": "https://images.unsplash.com/photo-1477587458883-47145ed94245?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+          },
+          {
+            "nome": "Chennai",
+            "banner": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+          },
+          {
+            "nome": "Agra",
+            "banner": "https://images.unsplash.com/photo-1564507592333-c60657eea523?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1351&q=80"
+          }
+        ]
+      },
+      {
+        "pais": "China",
+        "banner": "https://images.unsplash.com/photo-1517309230475-6736d926b979?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "cidades": [
+          {
+            "nome": "Hong Kong",
+            "banner": "https://images.unsplash.com/photo-1518599807935-37015b9cefcb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+          },
+          {
+            "nome": "Macau",
+            "banner": "https://images.unsplash.com/photo-1516545595035-b494dd0161e4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+          },
+          {
+            "nome": "Shanghai",
+            "banner": "https://images.unsplash.com/photo-1474181487882-5abf3f0ba6c2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+          },
+          {
+            "nome": "Guangzhou",
+            "banner": "https://images.unsplash.com/photo-1626457799609-83ecf393c55f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "continente": "America do Norte",
+    "banner": "https://images.unsplash.com/photo-1603015245012-68988952fc73?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "paises": [
+      {
+        "pais": "Estados Unidos",
+        "banner": "https://images.unsplash.com/photo-1449034446853-66c86144b0ad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "cidades": [
+          {
+            "nome": "Orlando",
+            "banner": "https://images.unsplash.com/photo-1618945373370-7bde4f8dd9c3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1348&q=80"
+          },
+          {
+            "nome": "Las Vegas",
+            "banner": "https://images.unsplash.com/photo-1577334928618-2ff2bf09e827?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80"
+          },
+          {
+            "nome": "Los Angeles",
+            "banner": "https://images.unsplash.com/photo-1597982087634-9884f03198ce?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1365&q=80"
+          },
+          {
+            "nome": "Miami",
+            "banner": "https://images.unsplash.com/photo-1514214246283-d427a95c5d2f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1273&q=80"
+          }
+        ]
+      },
+      {
+        "pais": "Mexico",
+        "banner": "https://images.unsplash.com/photo-1512813195386-6cf811ad3542?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "cidades": [
+          {
+            "nome": "Cancún",
+            "banner": "https://images.unsplash.com/photo-1612454882173-3d6c04b82131?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "continente": "America do Sul",
+    "banner": "https://images.unsplash.com/photo-1543385426-191664295b58?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1458&q=80",
+    "paises": [
+      {
+        "pais": "Brasil",
+        "banner": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "cidades": [
+          {
+            "nome": "São Paulo",
+            "banner": "https://images.unsplash.com/photo-1624402083004-f84dad193a8b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1191&q=80"
+          },
+          {
+            "nome": "Rio de Janeiro",
+            "banner": "https://images.unsplash.com/photo-1620218776119-2bc322e2d7ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80"
+          }
+        ]
+      }
+    ]
+  }
+]
